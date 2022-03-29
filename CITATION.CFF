@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: CURY
+    given-names: LARISSA
+    orcid: https://orcid.org/0000-0002-3184-8982
+title: "My First Citation"
+version: 0.1.0
+doi:10.5281/zenodo.6392254
+date-released: 2022-03-28
